@@ -1,0 +1,76 @@
+[
+  {
+    "id":1,
+    "name":"Story Book",
+    "title":"Best selling book for the finance students", 
+    "price":50,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+
+  {
+    "id":2,
+    "name":"Comedy Book",
+    "title":"Best selling book for the finance students", 
+    "price":100,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+  
+  {
+    "id":3,
+    "name":"Finance Book",
+    "title":"Best selling book for the finance students", 
+    "price":200,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+  {
+    "id":4,
+    "name":"Rich Dad Poor Dad Book",
+    "title":"Best selling book for the finance students", 
+    "price":200,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+  {
+    "id":5,
+    "name":"Muna Madan",
+    "title":"Best selling book for the finance students", 
+    "price":200,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+  {
+    "id":6,
+    "name":"Networking Book",
+    "title":"Best selling book for the finance students", 
+    "price":200,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+  {
+    "id":7,
+    "name":"Networking Book",
+    "title":"Best selling book for the finance students", 
+    "price":200,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+  {
+    "id":8,
+    "name":"Networking Book",
+    "title":"Best selling book for the finance students", 
+    "price":200,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  },
+  {
+    "id":9,
+    "name":"Networking Book",
+    "title":"Best selling book for ISMT student", 
+    "price":200,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714706593~exp=1714710193~hmac=8ff1787ec7ab2b89340240c9e36a2db0aeee26c442508f9acaffbf751f8bb2e4&w=740"
+  }
+]
